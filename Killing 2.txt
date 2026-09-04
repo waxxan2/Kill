@@ -22,7 +22,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/p4020
 
 local window = library:AddWindow(title, {
     main_color = Color3.fromRGB(0, 0, 0),
-    min_size = Vector2.new(800, 350),
+    min_size = Vector2.new(800, 700),
     can_resize = true,
 })
 
